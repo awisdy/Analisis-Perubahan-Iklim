@@ -1,0 +1,441 @@
+year;entity;reported disasters;economic damage (USS);source;;
+1980;Earthquake;164;20962089;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Drought;53;4272327;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Extreme Temperature;16;1319414;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Extreme Weather;4;2284048;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Flood;113;3842420;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Lanslide;58;3391429;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Mass Movement;73;2382918;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Volcanic Activity;3;6012992;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1980;Wildfire;421;8090487;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Earthquake;315;37318801;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Drought;92;2023388;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Extreme Temperature;21;1938314;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Extreme Weather;42;6371084;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Flood;336;2287352;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Impact;86;3867098;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Lanslide;138;7908088;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Mass Movement;81;2130426;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Volcanic Activity;7;8328247;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1981;Wildfire;648;10429240;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Earthquake;96;16326427;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Drought;24;9237480;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Extreme Temperature;54;8443752;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Extreme Weather;42;2090248;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Flood;97;1970081;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Impact;76;6989878;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Lanslide;144;8202807;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Volcanic Activity;2;4873421;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1982;Wildfire;85;7204247;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Earthquake;121;4840292;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Drought;13;2422249;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Extreme Temperature;63;1090874;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Extreme Weather;78;1592863;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Flood;429;6297420;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Impact;68;2420422;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Lanslide;366;3092313;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Mass Movement;133;3792380;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Volcanic Activity;9;4701310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1983;Wildfire;149;7313831;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Earthquake;120;1137048;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Drought;123;3317093;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Extreme Temperature;313;1138983;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Extreme Weather;42;2317031;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Flood;46;7318130;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Impact;7;1011212;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Lanslide;31;1313870;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Mass Movement;68;2906854;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Volcanic Activity;97;1203190;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1984;Wildfire;120;14080917;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Earthquake;67;2297612;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Drought;23;1013422;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Extreme Temperature;424;3280109;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Extreme Weather;84;1319310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Flood;240;2092240;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Impact;24;1093240;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Lanslide;441;4201103;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Mass Movement;141;3342900;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1985;Wildfire;219;1428689;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Earthquake;90;1390320;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Drought;24;1014209;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Extreme Temperature;89;3310138;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Extreme Weather;54;2979080;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Flood;688;5860453;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Lanslide;319;10248805;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Volcanic Activity;6;4098089;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1986;Wildfire;97;1021970;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Earthquake;102;2130381;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Extreme Temperature;80;1383300;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Flood;627;13775087;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Impact;43;1310310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Lanslide;231;9903139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Volcanic Activity;2;1820319;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1987;Wildfire;451;3901131;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Earthquake;869;7297210;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Drought;31;1311139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Extreme Temperature;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Flood;428;3130080;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Impact;90;2081310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Lanslide;72;1748420;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Mass Movement;24;1108400;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Volcanic Activity;3;46543485;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1988;Wildfire;137;2420291;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Earthquake;636;1108301;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Drought;94;1130093;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Extreme Temperature;42;1319153;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Flood;247;2980656;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Impact;97;1658970;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Lanslide;79;1098035;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1989;Wildfire;72;5803621;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Earthquake;31;1379024;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Drought;16;1076974;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Extreme Temperature;91;1560308;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Flood;486;2130103;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Lanslide;42;1327230;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Volcanic Activity;12;1318012;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1990;Wildfire;179;1870010;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Earthquake;143;7307951;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Drought;75;1630310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Extreme Temperature;245;2139010;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Extreme Weather;96;1317310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Flood;236;2180310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Lanslide;485;3210107;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1991;Wildfire;340;1139310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Earthquake;567;2130103;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Drought;32;1379024;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Extreme Temperature;31;23932065;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Flood;675;10429440;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Impact;99;5630310;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Volcanic Activity;4;2840489;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1992;Wildfire;241;12873809;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Earthquake;311;8356710;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Drought;13;2763424;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Extreme Temperature;425;13456789;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Extreme Weather;54;39901837;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Flood;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Impact;46;3567890;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Lanslide;584;25887762;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Volcanic Activity;3;1290651;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1993;Wildfire;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Earthquake;576;15906354;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Drought;56;4523175;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Extreme Temperature;97;8357665;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Flood;59;9861302;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Lanslide;630;12936547;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Mass Movement;316;2678397;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1994;Wildfire;211;21467993;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Earthquake;973;15278901;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Drought;317;1456738;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Extreme Temperature;68;3672076;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Extreme Weather;97;4356756;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Flood;781;12347890;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Lanslide;133;13426890;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Mass Movement;80;2086534;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1995;Wildfire;348;2804901;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Earthquake;316;14527890;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Drought;80;1234678;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Extreme Temperature;31;298721;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Flood;414;21765380;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Lanslide;412;26267812;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Mass Movement;456;21118920;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1996;Wildfire;57;267819;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Earthquake;317;3909764;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Extreme Temperature;69;3243678;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Extreme Weather;36;2092723;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Flood;319;10235618;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Mass Movement;133;6092734;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Volcanic Activity;12;1220933;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1997;Wildfire;333;11982033;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Earthquake;711;13027763;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Drought;31;2315679;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Extreme Temperature;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Flood;370;1273811;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Lanslide;409;5982048;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Mass Movement;8;105084230;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Volcanic Activity;7;23902;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1998;Wildfire;861;132381908;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Earthquake;648;11238802;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Drought;98;1203099;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Extreme Temperature;91;1000331;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Extreme Weather;26;72807436;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Flood;388;5234231;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Impact;13;112121;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Mass Movement;48;1121313;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+1999;Wildfire;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Earthquake;636;12681920;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Extreme Temperature;42;3243678;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Flood;263;11872909;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2000;Wildfire;136;11982033;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Earthquake;315;7297210;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Extreme Temperature;21;1311139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Flood;336;3130080;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Lanslide;138;1748420;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Mass Movement;81;1108400;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2001;Wildfire;119;42070897;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Earthquake;869;13027763;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Drought;31;2315679;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Extreme Temperature;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Flood;428;12273811;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Lanslide;72;3982048;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2002;Wildfire;137;132381908;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Earthquake;132;79228910;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Drought;13;1203099;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Extreme Temperature;63;20000331;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Extreme Weather;78;21000000;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Flood;429;50234231;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Impact;68;25612121;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Mass Movement;133;32121313;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2003;Wildfire;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Earthquake;102;7297210;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Extreme Temperature;80;1311139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Flood;765;23130080;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Lanslide;231;12748420;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Volcanic Activity;1;1276977;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2004;Wildfire;451;20420291;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Earthquake;11;1302779;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Drought;31;1302777;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Extreme Temperature;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Extreme Weather;8;5411980;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Flood;70;13027745;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Lanslide;409;15982048;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2005;Wildfire;861;132381908;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Earthquake;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Drought;92;1302777;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Extreme Temperature;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Flood;492;88920651;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Lanslide;138;12982048;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Mass Movement;81;1234578;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2006;Wildfire;648;20223819;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Earthquake;683;23027763;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Extreme Temperature;19;2710030;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Flood;319;11273811;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Volcanic Activity;12;239020;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2007;Wildfire;333;12381908;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Earthquake;90;8356710;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Drought;36;4921601;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Extreme Temperature;89;8345678;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Flood;688;13456789;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Lanslide;458;25887762;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2008;Wildfire;97;9290651;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Earthquake;316;8356710;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Extreme Temperature;31;13456789;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Flood;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Impact;40;3567890;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Lanslide;528;12881616;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2009;Wildfire;57;1290651;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Earthquake;144;8356710;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Extreme Temperature;34;8345678;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Flood;231;13456789;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Lanslide;128;25887762;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2010;Wildfire;462;56822709;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Earthquake;175;4386083;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Drought;21;1370;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Extreme Temperature;13;1138973;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Extreme Weather;69;2319317;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Flood;133;2008138;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Impact;76;3997319;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Volcanic Activity;4;92927880;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2011;Wildfire;62;1753307;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Earthquake;647;5465097;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Drought;79;1976087;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Extreme Temperature;34;1077012;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Extreme Weather;75;2586084;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Flood;643;43878962;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Lanslide;364;2316319;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Volcanic Activity;27;6136130;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2012;Wildfire;911;8138319;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Earthquake;120;7297210;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Extreme Temperature;313;1311139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Extreme Weather;11;7535821;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Flood;46;3130080;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Lanslide;31;1748420;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Mass Movement;68;1108400;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2013;Wildfire;120;2420291;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Earthquake;315;15906354;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Extreme Temperature;21;1835759;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Flood;336;10898346;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Lanslide;339;20711219;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Mass Movement;81;2678397;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2014;Wildfire;648;21467993;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Earthquake;223;12031139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Drought;7;2967080;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Extreme Temperature;134;8357665;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Flood;157;10898346;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Lanslide;178;12936547;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Mass Movement;23;2678397;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2015;Wildfire;321;21467993;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Earthquake;517;61786418;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Extreme Temperature;34;1560308;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Flood;231;22130103;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Lanslide;128;21327230;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2016;Wildfire;56;1870010;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Earthquake;315;7297210;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Extreme Temperature;21;1311139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Flood;336;3130080;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Lanslide;138;1748420;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Mass Movement;81;1108400;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2017;Wildfire;19;17932091;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Earthquake;90;12031139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Extreme Temperature;9;12227013;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Flood;688;22130103;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Lanslide;458;21327230;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2018;Wildfire;97;1870010;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Earthquake;648;12681920;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Extreme Temperature;91;3243678;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Extreme Weather;79;2092723;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Flood;723;23821390;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Lanslide;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Mass Movement;48;6092734;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2019;Wildfire;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Earthquake;31;1379024;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Drought;966;6031139;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Extreme Temperature;91;1560308;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Flood;486;2130103;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Lanslide;42;1327230;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Mass Movement;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Volcanic Activity;14;72921121;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2020;Wildfire;179;1870010;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Earthquake;164;14527890;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Drought;15;21982021;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Extreme Temperature;16;298721;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Extreme Weather;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Flood;113;2176530;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Lanslide;58;1230187;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Mass Movement;73;2111892;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2021;Wildfire;421;26781922;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Earthquake;576;8356710;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Drought;56;2763424;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Extreme Temperature;97;3456789;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Extreme Weather;804;64921012;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Flood;573;9231672;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Lanslide;630;12588776;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Mass Movement;316;1290651;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2022;Wildfire;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Earthquake;315;12681920;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Drought;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Extreme Temperature;21;3243678;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Extreme Weather;42;2092723;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Flood;336;10235618;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Impact;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Lanslide;632;120121031;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Mass Movement;81;6092734;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Volcanic Activity;;;data.bmkg.go.id;esdm.go.id;bnpb.go.id
+2023;Wildfire;648;12982033;data.bmkg.go.id;esdm.go.id;bnpb.go.id
